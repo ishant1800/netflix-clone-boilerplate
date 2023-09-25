@@ -1,0 +1,19 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&family=Roboto&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz@6..12&family=Poppins&family=Raleway&family=Roboto&display=swap');
+ *{
+    margin:0;
+    padding:0;
+    box-sizing:border-box
+ }
+ body{
+    text align;center;
+    background-color: black;
+ }
+ h1 {
+   color:black;
+   text-align: center
+ }
+ p {
+   font family:poppins;
+   font size: 35px;
+ }
